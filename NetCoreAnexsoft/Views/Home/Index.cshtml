@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Mi álbum de fotos";
+}
+
+<br />
+<div class="row">
+    <div class="col-md-12">
+        <div class="well well-sm text-right">
+            <a asp-action="Create" class="btn btn-primary">Crear Nueva Foto</a>
+        </div>
+        <hr />
+        @await Component.InvokeAsync("AlbumGallery")
+    </div>
+</div>

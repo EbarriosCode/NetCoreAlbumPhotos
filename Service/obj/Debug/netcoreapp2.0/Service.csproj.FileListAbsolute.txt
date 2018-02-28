@@ -1,0 +1,11 @@
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\bin\Debug\netcoreapp2.0\Models.dll
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\bin\Debug\netcoreapp2.0\Models.pdb
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\obj\Debug\netcoreapp2.0\Service.csprojResolveAssemblyReference.cache
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\obj\Debug\netcoreapp2.0\Service.dll
+C:\Users\Ebarrios\Documents\Visual Studio 2017\Projects\NetCoreAnexsoft\Service\obj\Debug\netcoreapp2.0\Service.pdb

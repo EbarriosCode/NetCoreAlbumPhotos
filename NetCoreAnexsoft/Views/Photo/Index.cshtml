@@ -1,0 +1,21 @@
+﻿@model Album
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>@Model.Name</h2>
+<p>@Model.Description</p>
+
+<div class="row">
+    @foreach (var m in Model.Photos)
+    {
+        <div class="col-md-4">
+            <img src="@m.PhotoLink" class="img-thumbnail" />            
+        </div>
+    }
+</div>
+
+<div class="well">
+    @Html.Partial("_CreatePartial", new PhotoViewModel { AlbumId = Model.Id})
+</div>
+
